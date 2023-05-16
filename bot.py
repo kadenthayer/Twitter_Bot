@@ -23,7 +23,6 @@ auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 # Search keyword
-# got them from https://twitter-trends.iamrohit.in/kenya/nairobi
 search = '#Bitcoin OR Bitcoin OR bitcoin OR #bitcoin'
 # Maximum limit of tweets to be interacted with
 maxNumberOfTweets = 1000000
