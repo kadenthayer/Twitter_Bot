@@ -1,5 +1,5 @@
 # Twitter_Bot
-Twitter bot, currently optimized specifically for just likes. Can easily implement comments, retweets, openAI connection, ect. 
+Twitter bot, currently optimized specifically for just likes. Can easily implement comments, retweets, openAI connection, etc. 
 
 Add your own twitter keys to the following code: 
 CONSUMER_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXX"
